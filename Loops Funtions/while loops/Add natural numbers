@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main(){
+    int i=1;
+    int n=0;
+    while(i<11){
+        n +=i;
+        i++;
+    }
+    printf("the sum of first ten natural number is %d\n",n);
+    return 0;
+}
