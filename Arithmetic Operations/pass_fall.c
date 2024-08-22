@@ -1,5 +1,7 @@
 #include<stdio.h>
-
+/*write a code of pass fall of three subject 
+if any subject is less than 33 percent then fall
+if total three less than 40 fail*/
 int main(){
    int marks1,marks2,marks3;
    printf("enter maeks1:\n");
